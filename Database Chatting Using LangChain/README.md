@@ -11,14 +11,14 @@
 
 5. Update your google api key and langchain api key
 
-6. Install ![mysql](https://dev.mysql.com/downloads/installer/) and ![mysql](https://dev.mysql.com/downloads/workbench/) workbench and create a database
+6. Install [mysql](https://dev.mysql.com/downloads/installer/) and [mysql](https://dev.mysql.com/downloads/workbench/) workbench and create a database
 
 7. Update the code with your database details
 
 
 ### Run
 ```bash
-		streamlit run db_qa_app.py
+streamlit run db_qa_app.py
 ```
 
 ## Output
